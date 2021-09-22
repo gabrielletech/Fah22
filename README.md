@@ -7,9 +7,9 @@
  
  <hr />
  
- <div align="justify">
+ <div">
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Fah22&count_private=true&include_all_commits=true&theme=dracula" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fah22&layout=compact&theme=dracula&show_icons=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fah22&layout=compact&theme=dracula&show_icons=true"/>
 </div>
  
  <!--- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fah22&layout=compact&theme=dracula&show_icons=true" /> --->
