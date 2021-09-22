@@ -8,8 +8,8 @@
  <hr />
  
  <div align="left">
-  <img height="170" width="200" align="left" src="https://github-readme-stats.vercel.app/api?username=Fah22&count_private=true&include_all_commits=true&theme=dracula" />
-  <img height="170" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fah22&layout=compact&theme=dracula&show_icons=true"/>
+  <img height="170" width="300" align="left" src="https://github-readme-stats.vercel.app/api?username=Fah22&count_private=true&include_all_commits=true&theme=dracula" />
+  <img height="170" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fah22&layout=compact&theme=dracula&show_icons=true"/>
 </div>
  
  <!--- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fah22&layout=compact&theme=dracula&show_icons=true" /> --->
