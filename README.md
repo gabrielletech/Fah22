@@ -1,12 +1,18 @@
-## [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)
+<!---## [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)--->
+<h3 align="center">Hello, and Welcome! :raising_hand:</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fah22&theme=dracula&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy) 
-
-<hr />
-
-## [Languages](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fah22&theme=dracula&show_icons=true&layout=compact&margin-r=15)
-](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img width="800" src="https://github-profile-trophy.vercel.app/api?username=Fah22&count_private=true&include_all_commits=true&theme=dracula&title=Repositories,Commit,Followers,Stars,PullRequest,Issues" />
+ </div>
+ 
+ <hr />
+ 
+ <div align="center">
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Fah22&count_private=true&include_all_commits=true&theme=dracula" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fah22&layout=compact&theme=dracula&show_icons=true" />
+</div>
+ 
+ <!--- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fah22&layout=compact&theme=dracula&show_icons=true" /> --->
 
 
 
