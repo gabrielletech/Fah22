@@ -1,3 +1,8 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fah22)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
 - 👋 Hi, I’m Fah! Welcome!
 - 👀 I’m interested in Frontend Development and React.js
 - 🌱 I’m currently learning React.js
