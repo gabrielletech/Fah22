@@ -2,7 +2,7 @@
 <h3 align="center">Hello, and Welcome! :raising_hand:</h3>
 
 <div align="center">
-  <img width="800" src="https://github-profile-trophy.vercel.app/api?username=Fah22&count_private=true&include_all_commits=true&theme=dracula&title=Repositories,Commit,Followers,Stars,PullRequest,Issues" />
+  <img width="600" src="https://github-profile-trophy.vercel.app/api?username=Fah22&count_private=true&include_all_commits=true&theme=dracula&title=Repositories,Commit,Followers,Stars,PullRequest,Issues" />
  </div>
  
  <hr />
