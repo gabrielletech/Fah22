@@ -23,8 +23,11 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
   </a>
 </div>
+  
  
  <!--- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fah22&layout=compact&theme=dracula&show_icons=true" /> --->
+  
+ 
 
 
 
